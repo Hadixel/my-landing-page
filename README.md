@@ -5,6 +5,8 @@ This project is a demonstration of HTML and CSS skills, specifically focusing on
 
 For this assignment, I created my personal portfolio landing page under the developer name 'Hadixel.' While the layout and structure are based on the examples provided by The Odin Project, the content, images, and theme have been customized to reflect my personal journey into software development.
 
+-   **Live Demo:** [View This Project's pages](https://hadixel.github.io/my-landing-page/)
+
 ### 📸 Preview
 
 ![Project Preview](./preveiw-img/Screenshot.png)
@@ -39,4 +41,3 @@ This project was an exercise in consolidating foundational web development skill
 
 -   **Assignment:** [The Odin Project - Landing Page Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 -   **Source Code:** [My Repo](https://github.com/Hadixel/my-landing-page)
--   **Live Demo:** [View This Project's pages](https://hadixel.github.io/my-landing-page/)
