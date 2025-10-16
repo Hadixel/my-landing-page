@@ -38,5 +38,5 @@ This project was an exercise in consolidating foundational web development skill
 ### 🔗 Links
 
 -   **Assignment:** [The Odin Project - Landing Page Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
--   **Source Code:** (https://github.com/Hadixel/my-landing-page)
--   **Live Demo:** (https://hadixel.github.io/my-landing-page/)
+-   **Source Code:** [My Repo](https://github.com/Hadixel/my-landing-page)
+-   **Live Demo:** [View This Project's pages](https://hadixel.github.io/my-landing-page/)
