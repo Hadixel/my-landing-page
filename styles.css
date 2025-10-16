@@ -32,19 +32,33 @@ body {
 
 .title-container {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     margin: 80px 0;
 }
 
 .hero-container {
-    display: flex;
-    justify-content: flex-start;
+   
 }
 
 .hero-main {
     color: #f9faf8;
     font-size: 48px;
     font-weight: 900;
+}
+
+.hero-second {
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.hero-button {
+
+}
+
+.img-place-holder {
+    width: 500px;
+    display: flex;
 }
 
 ul {
