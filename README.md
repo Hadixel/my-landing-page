@@ -3,7 +3,7 @@ This project is a demonstration of HTML and CSS skills, specifically focusing on
 
 ## 📝 Project Overview
 
-For this assignment, I created a personal portfolio landing page for a fictional developer persona, "Hadixel." While the layout and structure are based on the examples provided by The Odin Project, the content, images, and theme have been customized to reflect a personal journey into software development.
+For this assignment, I created my personal portfolio landing page under the developer name 'Hadixel.' While the layout and structure are based on the examples provided by The Odin Project, the content, images, and theme have been customized to reflect my personal journey into software development.
 
 ### 📸 Preview
 
